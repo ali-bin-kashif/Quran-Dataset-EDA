@@ -1,0 +1,6 @@
+Some facts and questions to answer and visualize from Quran dataset.
+1. No. of verses of in each chapter.
+2. Prophets name's frequency
+3. Word cloud of quran and different chapters.
+4. Frequency of different important words.
+5. Most addressed topics
